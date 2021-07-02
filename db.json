@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Umama Raza",
+      "username": "umama011",
+      "email": "umama@gmail.com",
+      "phone": "07545 975707",
+      "website": "www.umamaraza.com",
+      "id": 2
+    },
+    {
+      "name": "Juwayriya Raza",
+      "username": "juwayriya321",
+      "email": "juwayriya_raza@gmail.com",
+      "phone": "07545 975707",
+      "website": "juwayriya.com",
+      "id": 3
+    },
+    {
+      "name": "Jainul Ansari 20 8",
+      "username": "moh.razaullah44321324@gmail.com",
+      "email": "jainul@gmail.com",
+      "phone": "07545 975707",
+      "website": "hildegard.org",
+      "id": 4
+    },
+    {
+      "name": "Umama Raza",
+      "username": "umama011",
+      "email": "umama@gmail.com",
+      "phone": "686869698686",
+      "website": "umama.com",
+      "id": 6
+    }
+  ]
+}
